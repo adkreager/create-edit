@@ -1,10 +1,10 @@
-package com.example.createedit;
+package com.example.editspring;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class CreateEditApplicationTests {
+class EditspringApplicationTests {
 
 	@Test
 	void contextLoads() {

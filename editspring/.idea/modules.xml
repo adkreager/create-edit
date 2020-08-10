@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/create-edit.iml" filepath="$PROJECT_DIR$/.idea/create-edit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/editspring.iml" filepath="$PROJECT_DIR$/.idea/editspring.iml" />
     </modules>
   </component>
 </project>
